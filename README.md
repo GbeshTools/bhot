@@ -42,6 +42,8 @@ $ python2 bhot.py
 <br/>
 ....
 <br/>
+USERNAME- thandabotol
+PASSWORD- gorombotol
 
 * Note:- Don't try to edit or modify this tool.
 
